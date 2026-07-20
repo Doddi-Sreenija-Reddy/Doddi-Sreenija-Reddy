@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Doddi-Sreenija-Reddy
-- 👀 I’m currently pursuing my bachelor's of technology at Amrita Vishwa Vidyapeetham, Chennai Campus
+- 👀 I’m have completed my bachelor's of technology at Amrita Vishwa Vidyapeetham, Chennai Campus
 - 🌱 I’m currently learning machine learning, cloud computing and AWS tools.
 
 <!---
